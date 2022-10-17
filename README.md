@@ -9,3 +9,4 @@ For more info:
 - https://www.geeksforgeeks.org/python-dictionary/
 - https://www.geeksforgeeks.org/zip-in-python/
 - https://www.geeksforgeeks.org/enumerate-in-python/
+- https://stackoverflow.com/questions/6589814/what-is-the-difference-between-dict-and-collections-defaultdict
