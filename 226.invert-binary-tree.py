@@ -38,8 +38,9 @@ class Solution:
         while deq:
             currNode = deq.popleft()
             if currNode:
+                deq += currNode.left, currNode.right  # Bottom up
                 currNode.left, currNode.right = currNode.right, currNode.left
-                deq += currNode.left, currNode.right
+                # deq += currNode.left, currNode.right # Top to bottom
         return root
 
 
