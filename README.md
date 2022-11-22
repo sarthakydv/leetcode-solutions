@@ -1,5 +1,7 @@
 # leetcode-solutions
 
+# tips and tricks - https://github.com/sarthakydv/leetcode-solutions/blob/main/_tips.md
+
 # pythonic_ways
 _pythonic_ways.py is a basic python tutorial required for leetcode.
 For more info:
