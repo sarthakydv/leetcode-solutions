@@ -1,9 +1,9 @@
 # leetcode-solutions
 
-# tips and tricks - https://github.com/sarthakydv/leetcode-solutions/blob/main/_tips.md
+# tips and tricks - https://github.com/sarthakydv/leetcode-solutions/blob/main/src/tools/stips.md
 
 # pythonic_ways
-_pythonic_ways.py is a basic python tutorial required for leetcode.
+src/pythonic_ways.py is a basic python tutorial required for leetcode.
 For more info:
 - https://www.geeksforgeeks.org/python-difference-between-list-and-tuple/
 - https://www.geeksforgeeks.org/python-lists/
