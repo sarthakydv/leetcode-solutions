@@ -1,8 +1,8 @@
 # leetcode-solutions
 
-# tips and tricks(src/tools/stips.md)
+# [tips and tricks](src/tools/stips.md)
 
-# pythonic_ways(src/pythonic_ways.py)
+# [pythonic_ways](src/pythonic_ways.py)
 A basic python tutorial required for leetcode.
 For more info:
 - https://www.geeksforgeeks.org/python-difference-between-list-and-tuple/
