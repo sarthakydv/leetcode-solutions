@@ -1,4 +1,5 @@
-# leetcode-solutions
+# grind75-solutions
+A collection of solutions to leetcode problems in python3 from the [grind 75]() and my learnings learnt along the way
 
 # [tips and tricks](src/tools/tips.md)
 A list of tips and tricks to help write better DSA solutions
